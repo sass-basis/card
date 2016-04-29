@@ -46,7 +46,7 @@
 
 @mixin bs-c-card__body {
 	padding: ($bs-base-line-height / 2) $bs-base-line-height;
-	flex: 1;
+	flex: 1 0 auto;
 }
 
 @mixin bs-c-card__action {
